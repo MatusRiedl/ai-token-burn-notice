@@ -1,0 +1,8 @@
+# Runtime state normally lives in %LOCALAPPDATA%\AIBurnNotice; keep it out if it is ever pointed here
+cache.json
+usage.json
+prices.json
+calibration.json
+tray.log
+*.bak
+*.tmp
